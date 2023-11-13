@@ -13,7 +13,7 @@ Versioning : Git, GitHub
 Tests : Unitaires, fonctionnels, d'intégration
 Supervision : Prometheus, Grafana
 Sécurité : IAM, RBAC, compliance
-[ci-cd]("assets/img/portfolio/DALL·E 2023-11-13 10.14.58 - A background image featuring a dark, cloud-themed design with a subtle light reflection. The words 'AWS' and 'CI-CD' are prominently displayed in the .png")
+
 ### Expériences
 
 #### DevOps Engineer
@@ -62,3 +62,5 @@ Licence en informatique
 
 Français : Langue maternelle
 Anglais : Courant
+
+![ci-cd](assets/img/portfolio/DALL·E 2023-11-13 10.14.58 - A background image featuring a dark, cloud-themed design with a subtle light reflection. The words 'AWS' and 'CI-CD' are prominently displayed in the .png)
